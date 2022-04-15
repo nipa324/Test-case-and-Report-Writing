@@ -20,7 +20,7 @@ Test cases define what must be done to test a system, including the steps execut
 
 5)Improved quality of software and user experience
 
-The components of a test case include:
+	**The components of a test case include:	**
 
 1)Test name: A title that describes the functionality or feature that the test is verifying.
 
